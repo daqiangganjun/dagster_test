@@ -1,5 +1,4 @@
-# dagster_cloud.yaml
 locations:
 - code_source:
-    module_name: quickstart.assets
-  location_name: dagster_test
+    module_name: start.assets
+  location_name: quickstart
